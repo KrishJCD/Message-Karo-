@@ -1,2 +1,3 @@
-# CarRacingGame1.0
-Car Racing Game Stage 1.0
+# Message Karo
+Message Karo is an application designed by Krish Jaiswal
+I am a Grade 10 Student from West Bengal India, MCKV.
